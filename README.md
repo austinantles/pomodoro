@@ -1,0 +1,1 @@
+A pomodoro clock I made to help stay focused and make sure I took breaks to keep a healthy study time.
